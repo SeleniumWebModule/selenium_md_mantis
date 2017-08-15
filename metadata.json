@@ -1,0 +1,15 @@
+{
+  "name": "eduardodicarterj-selenium_md_mantis",
+  "version": "0.0.1",
+  "author": "eduardodicarterj",
+  "summary": "Provisionamento da instalação e configuração da ferramenta de bug tracker Mantis",
+  "license": "Apache-2.0",
+  "source": "https://github.com/SeleniumWebModule/selenium_md_mantis",
+  "project_page": "https://github.com/SeleniumWebModule/selenium_md_mantis",
+  "issues_url": "https://github.com/SeleniumWebModule/selenium_md_mantis/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
